@@ -31,6 +31,7 @@
    Observação: O que vc fez ate aqui é converter um arquivo pem para um .ppk que é o formato que o putty lê.
   
    10 - Salve a chave carregada clicando em Salvar chave privada.
+   Obs: Não é obrigatorio colocar a senha.
   
   ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_puttygen_save.png)
   
