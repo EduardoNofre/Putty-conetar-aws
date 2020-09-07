@@ -8,7 +8,7 @@
  
  ## amazon AWS EC2
  
-  3 - Vamos partir do principio que você ja tenha uma maquina na amazon (instancia).
+  3 - Vamos partir do principio que você ja tenha uma maquina na amazon (instancia) e gerado o arquivo .pem.
  
   4 - Faça o login na sua conta da amazon.
  
@@ -20,11 +20,25 @@
   
   8 - Faça uma copia do DNS publica. Obs a dns public será utilizada no putty.  
   
+  9 - Abra o puttygen.
+  
+  10 - Selecione a opção load.
+  
+  11 - Vá ate onde esteja o seu arquivo .pem.
+  
+  ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_puttygen.png)
+  
+  Observação: O que vc fez ate aqui é converter um arquivo pem para um .ppk que é o formato que o putty lê.
+  
+  
+  
+  
+  
   9 - Cole a DNS publica no campo do Putty chamado Host Name (or Ip address) 
   
   ![Alt text](https://imajineweb.com/wp-content/uploads/2019/07/access-phpmyadmin-using-ssh1.jpg)
   
-   
+  10 -    
 
 
 
