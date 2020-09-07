@@ -21,7 +21,7 @@
   8 - Faça uma copia do DNS publica. Obs a dns public será utilizada no putty.
   
   
-  
+  https://imajineweb.com/wp-content/uploads/2019/07/access-phpmyadmin-using-ssh1.jpg
   
    
 
