@@ -34,12 +34,32 @@
   
   ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_puttygen_save.png)
   
-  9 - Cole a DNS publica no campo do Putty chamado Host Name (or Ip address) 
+  13 - Feche o puttygen  e abra o putty.
   
-  ![Alt text](https://imajineweb.com/wp-content/uploads/2019/07/access-phpmyadmin-using-ssh1.jpg)
+  ## Agora vamos realmente conectar a sua instancia
   
-  10 -    
-
+   1 - Localize e execute PuTTY.exe
+   
+   2 - No painel de navegação do PuTTY, vá para Connection → SSH → Auth.
+   
+   3 - clique Browse.
+   
+   ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_putty_load_key.png)
+   
+   4 - Procure pelo seu arquivo .ppk e clique em abrir.
+   
+   ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_putty_load_key_dialog.png)
+    
+   5 - Cole a DNS publica no campo do 'Putty chamado Host Name (or Ip address)', port 22, SSH
+  
+  ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_putty_open_connection.png)
+     
+   6 - clique em open.Será exibido um alerta.
+   
+   ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_putty_trust_connection.png)
+   
+   7 clique em yes e pronto.
+   
 
 
 
