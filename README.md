@@ -60,6 +60,6 @@
    
     7 clique em yes e pronto.
    
-
+![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_putty_connected.png)
 
 
