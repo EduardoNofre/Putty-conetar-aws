@@ -18,10 +18,11 @@
   
   7 - Ao selecionar a opção conectar você será redirecionado para outra tela. Nesta tela selecione a aba cliente SSH.
   
-  8 - Faça uma copia do DNS publica. Obs a dns public será utilizada no putty.
+  8 - Faça uma copia do DNS publica. Obs a dns public será utilizada no putty.  
   
+  9 - Cole a DNS publica no campo do Putty chamado Host Name (or Ip address) 
   
-  https://imajineweb.com/wp-content/uploads/2019/07/access-phpmyadmin-using-ssh1.jpg
+  ![Alt text](https://imajineweb.com/wp-content/uploads/2019/07/access-phpmyadmin-using-ssh1.jpg)
   
    
 
