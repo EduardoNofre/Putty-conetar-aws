@@ -30,9 +30,9 @@
   
   Observação: O que vc fez ate aqui é converter um arquivo pem para um .ppk que é o formato que o putty lê.
   
+  12 - Salve a chave carregada clicando em Salvar chave privada.
   
-  
-  
+  ![Alt text](https://support.cades.ornl.gov/user-documentation/_book/openstack/screenshots/birthright_ssh_puttygen_save.png)
   
   9 - Cole a DNS publica no campo do Putty chamado Host Name (or Ip address) 
   
